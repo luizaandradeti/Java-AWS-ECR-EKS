@@ -62,7 +62,7 @@ docker push 05075xxxxxxxx.dkr.ecr.us-east-1.amazonaws.com/spring-eks:latest
 
 **Create cluster:**
 
-![App Screenshot](images/push.png) 
+
 ```
     eksctl create cluster --name spring-eks --version 1.28 --nodes=1 --node-type=t2.small --region us-east-1
 ```
