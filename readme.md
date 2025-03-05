@@ -44,7 +44,6 @@ To get started... Follow the steps in the flow
 
 **Deploy the image into ECR**
 
-![App Screenshot](images/push1.png)  
 
 **Login and push the api image on ECR:**
 
