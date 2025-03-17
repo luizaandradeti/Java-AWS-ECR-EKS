@@ -28,7 +28,7 @@ To get started... Follow the steps in the flow
 ## 1.Create Spring
 **Dependences:** Lombok, Spring web
 
-- Generate an executable JAR
+- Generate an executable JAR 
 
 ``` mvn clean install```
 
