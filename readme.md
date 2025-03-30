@@ -5,7 +5,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiza-andrade-ti/) [![git](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaandradeti/) 
 
-[![My Skills](https://skillicons.dev/icons?i=js,aws,kubernets,java,spring,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,spring,kubernets,docker)](https://skillicons.dev)
 
 ## Tech Stack  
 **Client:** Postman, AWS account, eksctl, Docker
