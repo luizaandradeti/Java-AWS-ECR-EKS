@@ -1,7 +1,7 @@
   
 # Deploy Spring on EKS
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java,kubernetes,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,kubernetes,docker)](https://skillicons.dev) 
 
 ## 🔗 Links  
 
